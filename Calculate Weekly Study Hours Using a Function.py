@@ -8,3 +8,4 @@ def display_study_hours():
 
 # Call the function
 display_study_hours()
+
